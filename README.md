@@ -3,7 +3,7 @@
 VASE: Object-Centric Appearance and Shape Manipulation of Real Videos
 </h1>
 
-[![Static Badge](https://img.shields.io/badge/arXiv%20-%20?logo=arXiv&labelColor=red&color=red&link=https://arxiv.org/)](https://arxiv.org/)
+[![Static Badge](https://img.shields.io/badge/arXiv%20-%20?logo=arXiv&labelColor=red&color=red&link=https://arxiv.org/)](https://arxiv.org/abs/2401.02473)
 [![Static Badge](https://img.shields.io/badge/website%20-%20?labelColor=blue&color=blue&link=https://helia95.github.io/vase-website/)](https://helia95.github.io/vase-website/)
 
 > [Elia Peruzzo](https://helia95.github.io/), [Vidit Goel](https://vidit98.github.io/), [Deja Xu](https://ir1d.github.io/), [Xingqian Xu](https://xingqian2018.github.io/), [Yifan Jiang](https://yifanjiang19.github.io/), [Zhangyang Wang](https://vita-group.github.io/), [Humphrey Shi](https://www.humphreyshi.com/), [Nicu Sebe](https://disi.unitn.it/~sebe/)
@@ -20,5 +20,16 @@ VASE: Object-Centric Appearance and Shape Manipulation of Real Videos
 ## Updates
 
 - [ ] :computer: Code (coming soon).
-- [x] :page_facing_up: Paper released on [arXiv](https://arxiv.org/).
+- [x] :page_facing_up: Paper released on [arXiv](https://arxiv.org/abs/2401.02473).
 
+## Citation
+```latex
+@misc{peruzzo2024vase,
+      title={VASE: Object-Centric Appearance and Shape Manipulation of Real Videos}, 
+      author={Elia Peruzzo and Vidit Goel and Dejia Xu and Xingqian Xu and Yifan Jiang and Zhangyang Wang and Humphrey Shi and Nicu Sebe},
+      year={2024},
+      eprint={2401.02473},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
